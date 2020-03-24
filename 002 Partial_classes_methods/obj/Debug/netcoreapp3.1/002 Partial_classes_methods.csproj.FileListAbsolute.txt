@@ -1,0 +1,10 @@
+D:\GD\project\Metanit\002 Partial_classes_methods\bin\Debug\netcoreapp3.1\002 Partial_classes_methods.exe
+D:\GD\project\Metanit\002 Partial_classes_methods\bin\Debug\netcoreapp3.1\002 Partial_classes_methods.deps.json
+D:\GD\project\Metanit\002 Partial_classes_methods\bin\Debug\netcoreapp3.1\002 Partial_classes_methods.runtimeconfig.json
+D:\GD\project\Metanit\002 Partial_classes_methods\bin\Debug\netcoreapp3.1\002 Partial_classes_methods.runtimeconfig.dev.json
+D:\GD\project\Metanit\002 Partial_classes_methods\bin\Debug\netcoreapp3.1\002 Partial_classes_methods.dll
+D:\GD\project\Metanit\002 Partial_classes_methods\bin\Debug\netcoreapp3.1\002 Partial_classes_methods.pdb
+D:\GD\project\Metanit\002 Partial_classes_methods\obj\Debug\netcoreapp3.1\002 Partial_classes_methods.AssemblyInfoInputs.cache
+D:\GD\project\Metanit\002 Partial_classes_methods\obj\Debug\netcoreapp3.1\002 Partial_classes_methods.AssemblyInfo.cs
+D:\GD\project\Metanit\002 Partial_classes_methods\obj\Debug\netcoreapp3.1\002 Partial_classes_methods.dll
+D:\GD\project\Metanit\002 Partial_classes_methods\obj\Debug\netcoreapp3.1\002 Partial_classes_methods.pdb

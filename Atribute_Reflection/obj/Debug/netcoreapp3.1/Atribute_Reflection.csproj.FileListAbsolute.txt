@@ -1,0 +1,11 @@
+D:\GD\project\Metanit\Atribute_Reflection\bin\Debug\netcoreapp3.1\Atribute_Reflection.exe
+D:\GD\project\Metanit\Atribute_Reflection\bin\Debug\netcoreapp3.1\Atribute_Reflection.deps.json
+D:\GD\project\Metanit\Atribute_Reflection\bin\Debug\netcoreapp3.1\Atribute_Reflection.runtimeconfig.json
+D:\GD\project\Metanit\Atribute_Reflection\bin\Debug\netcoreapp3.1\Atribute_Reflection.runtimeconfig.dev.json
+D:\GD\project\Metanit\Atribute_Reflection\bin\Debug\netcoreapp3.1\Atribute_Reflection.dll
+D:\GD\project\Metanit\Atribute_Reflection\bin\Debug\netcoreapp3.1\Atribute_Reflection.pdb
+D:\GD\project\Metanit\Atribute_Reflection\obj\Debug\netcoreapp3.1\Atribute_Reflection.csprojAssemblyReference.cache
+D:\GD\project\Metanit\Atribute_Reflection\obj\Debug\netcoreapp3.1\Atribute_Reflection.AssemblyInfoInputs.cache
+D:\GD\project\Metanit\Atribute_Reflection\obj\Debug\netcoreapp3.1\Atribute_Reflection.AssemblyInfo.cs
+D:\GD\project\Metanit\Atribute_Reflection\obj\Debug\netcoreapp3.1\Atribute_Reflection.dll
+D:\GD\project\Metanit\Atribute_Reflection\obj\Debug\netcoreapp3.1\Atribute_Reflection.pdb

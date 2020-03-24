@@ -1,0 +1,11 @@
+D:\GD\project\Metanit\024 Nasledovanie Generics\obj\Debug\netcoreapp3.1\024 Nasledovanie Generics.AssemblyInfoInputs.cache
+D:\GD\project\Metanit\024 Nasledovanie Generics\obj\Debug\netcoreapp3.1\024 Nasledovanie Generics.AssemblyInfo.cs
+D:\GD\project\Metanit\024 Nasledovanie Generics\bin\Debug\netcoreapp3.1\024 Nasledovanie Generics.exe
+D:\GD\project\Metanit\024 Nasledovanie Generics\bin\Debug\netcoreapp3.1\024 Nasledovanie Generics.deps.json
+D:\GD\project\Metanit\024 Nasledovanie Generics\bin\Debug\netcoreapp3.1\024 Nasledovanie Generics.runtimeconfig.json
+D:\GD\project\Metanit\024 Nasledovanie Generics\bin\Debug\netcoreapp3.1\024 Nasledovanie Generics.runtimeconfig.dev.json
+D:\GD\project\Metanit\024 Nasledovanie Generics\bin\Debug\netcoreapp3.1\024 Nasledovanie Generics.dll
+D:\GD\project\Metanit\024 Nasledovanie Generics\bin\Debug\netcoreapp3.1\024 Nasledovanie Generics.pdb
+D:\GD\project\Metanit\024 Nasledovanie Generics\obj\Debug\netcoreapp3.1\024 Nasledovanie Generics.dll
+D:\GD\project\Metanit\024 Nasledovanie Generics\obj\Debug\netcoreapp3.1\024 Nasledovanie Generics.pdb
+D:\GD\project\Metanit\024 Nasledovanie Generics\obj\Debug\netcoreapp3.1\024 Nasledovanie Generics.csprojAssemblyReference.cache

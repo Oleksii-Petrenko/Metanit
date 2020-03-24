@@ -1,0 +1,10 @@
+D:\GD\project\Metanit\006 Interfaces in Generic\bin\Debug\netcoreapp3.1\006 Interfaces in Generic.exe
+D:\GD\project\Metanit\006 Interfaces in Generic\bin\Debug\netcoreapp3.1\006 Interfaces in Generic.deps.json
+D:\GD\project\Metanit\006 Interfaces in Generic\bin\Debug\netcoreapp3.1\006 Interfaces in Generic.runtimeconfig.json
+D:\GD\project\Metanit\006 Interfaces in Generic\bin\Debug\netcoreapp3.1\006 Interfaces in Generic.runtimeconfig.dev.json
+D:\GD\project\Metanit\006 Interfaces in Generic\bin\Debug\netcoreapp3.1\006 Interfaces in Generic.dll
+D:\GD\project\Metanit\006 Interfaces in Generic\bin\Debug\netcoreapp3.1\006 Interfaces in Generic.pdb
+D:\GD\project\Metanit\006 Interfaces in Generic\obj\Debug\netcoreapp3.1\006 Interfaces in Generic.AssemblyInfoInputs.cache
+D:\GD\project\Metanit\006 Interfaces in Generic\obj\Debug\netcoreapp3.1\006 Interfaces in Generic.AssemblyInfo.cs
+D:\GD\project\Metanit\006 Interfaces in Generic\obj\Debug\netcoreapp3.1\006 Interfaces in Generic.dll
+D:\GD\project\Metanit\006 Interfaces in Generic\obj\Debug\netcoreapp3.1\006 Interfaces in Generic.pdb

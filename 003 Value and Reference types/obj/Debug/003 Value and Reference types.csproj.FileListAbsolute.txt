@@ -1,0 +1,6 @@
+D:\GD\project\Metanit\003 Value and Reference types\bin\Debug\003 Value and Reference types.exe.config
+D:\GD\project\Metanit\003 Value and Reference types\bin\Debug\003 Value and Reference types.exe
+D:\GD\project\Metanit\003 Value and Reference types\bin\Debug\003 Value and Reference types.pdb
+D:\GD\project\Metanit\003 Value and Reference types\obj\Debug\003 Value and Reference types.csprojAssemblyReference.cache
+D:\GD\project\Metanit\003 Value and Reference types\obj\Debug\003 Value and Reference types.exe
+D:\GD\project\Metanit\003 Value and Reference types\obj\Debug\003 Value and Reference types.pdb

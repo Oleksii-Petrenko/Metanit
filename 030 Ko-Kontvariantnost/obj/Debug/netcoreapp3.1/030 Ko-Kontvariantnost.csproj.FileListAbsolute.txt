@@ -1,0 +1,11 @@
+D:\GD\project\Metanit\030 Ko-Kontvariantnost\bin\Debug\netcoreapp3.1\030 Ko-Kontvariantnost.exe
+D:\GD\project\Metanit\030 Ko-Kontvariantnost\bin\Debug\netcoreapp3.1\030 Ko-Kontvariantnost.deps.json
+D:\GD\project\Metanit\030 Ko-Kontvariantnost\bin\Debug\netcoreapp3.1\030 Ko-Kontvariantnost.runtimeconfig.json
+D:\GD\project\Metanit\030 Ko-Kontvariantnost\bin\Debug\netcoreapp3.1\030 Ko-Kontvariantnost.runtimeconfig.dev.json
+D:\GD\project\Metanit\030 Ko-Kontvariantnost\bin\Debug\netcoreapp3.1\030 Ko-Kontvariantnost.dll
+D:\GD\project\Metanit\030 Ko-Kontvariantnost\bin\Debug\netcoreapp3.1\030 Ko-Kontvariantnost.pdb
+D:\GD\project\Metanit\030 Ko-Kontvariantnost\obj\Debug\netcoreapp3.1\030 Ko-Kontvariantnost.csprojAssemblyReference.cache
+D:\GD\project\Metanit\030 Ko-Kontvariantnost\obj\Debug\netcoreapp3.1\030 Ko-Kontvariantnost.AssemblyInfoInputs.cache
+D:\GD\project\Metanit\030 Ko-Kontvariantnost\obj\Debug\netcoreapp3.1\030 Ko-Kontvariantnost.AssemblyInfo.cs
+D:\GD\project\Metanit\030 Ko-Kontvariantnost\obj\Debug\netcoreapp3.1\030 Ko-Kontvariantnost.dll
+D:\GD\project\Metanit\030 Ko-Kontvariantnost\obj\Debug\netcoreapp3.1\030 Ko-Kontvariantnost.pdb

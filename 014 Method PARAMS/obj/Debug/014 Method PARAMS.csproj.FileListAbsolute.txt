@@ -1,0 +1,13 @@
+D:\googles\project\Metanit\014 Method PARAMS\obj\Debug\014 Method PARAMS.csprojAssemblyReference.cache
+D:\googles\project\Metanit\014 Method PARAMS\obj\Debug\014 Method PARAMS.csproj.CoreCompileInputs.cache
+D:\googles\project\Metanit\014 Method PARAMS\bin\Debug\014 Method PARAMS.exe.config
+D:\googles\project\Metanit\014 Method PARAMS\bin\Debug\014 Method PARAMS.exe
+D:\googles\project\Metanit\014 Method PARAMS\bin\Debug\014 Method PARAMS.pdb
+D:\googles\project\Metanit\014 Method PARAMS\obj\Debug\014 Method PARAMS.exe
+D:\googles\project\Metanit\014 Method PARAMS\obj\Debug\014 Method PARAMS.pdb
+D:\GD\project\Metanit\014 Method PARAMS\bin\Debug\014 Method PARAMS.exe.config
+D:\GD\project\Metanit\014 Method PARAMS\bin\Debug\014 Method PARAMS.exe
+D:\GD\project\Metanit\014 Method PARAMS\bin\Debug\014 Method PARAMS.pdb
+D:\GD\project\Metanit\014 Method PARAMS\obj\Debug\014 Method PARAMS.csprojAssemblyReference.cache
+D:\GD\project\Metanit\014 Method PARAMS\obj\Debug\014 Method PARAMS.exe
+D:\GD\project\Metanit\014 Method PARAMS\obj\Debug\014 Method PARAMS.pdb

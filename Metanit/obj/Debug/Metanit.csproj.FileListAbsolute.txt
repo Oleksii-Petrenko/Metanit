@@ -1,0 +1,10 @@
+C:\Users\O_M\source\repos\Metanit\Metanit\bin\Debug\Metanit.exe.config
+C:\Users\O_M\source\repos\Metanit\Metanit\bin\Debug\Metanit.exe
+C:\Users\O_M\source\repos\Metanit\Metanit\bin\Debug\Metanit.pdb
+C:\Users\O_M\source\repos\Metanit\Metanit\obj\Debug\Metanit.csprojAssemblyReference.cache
+C:\Users\O_M\source\repos\Metanit\Metanit\obj\Debug\Metanit.csproj.CoreCompileInputs.cache
+C:\Users\O_M\source\repos\Metanit\Metanit\obj\Debug\Metanit.exe
+C:\Users\O_M\source\repos\Metanit\Metanit\obj\Debug\Metanit.pdb
+D:\GD\project\Metanit\Metanit\obj\Debug\Metanit.csprojAssemblyReference.cache
+D:\GD\project\Metanit\Metanit\obj\Debug\Metanit.exe
+D:\GD\project\Metanit\Metanit\obj\Debug\Metanit.pdb

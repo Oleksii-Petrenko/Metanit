@@ -1,0 +1,10 @@
+D:\GD\project\Metanit\003 Anonymous_types\bin\Debug\netcoreapp3.1\003 Anonymous_types.exe
+D:\GD\project\Metanit\003 Anonymous_types\bin\Debug\netcoreapp3.1\003 Anonymous_types.deps.json
+D:\GD\project\Metanit\003 Anonymous_types\bin\Debug\netcoreapp3.1\003 Anonymous_types.runtimeconfig.json
+D:\GD\project\Metanit\003 Anonymous_types\bin\Debug\netcoreapp3.1\003 Anonymous_types.runtimeconfig.dev.json
+D:\GD\project\Metanit\003 Anonymous_types\bin\Debug\netcoreapp3.1\003 Anonymous_types.dll
+D:\GD\project\Metanit\003 Anonymous_types\bin\Debug\netcoreapp3.1\003 Anonymous_types.pdb
+D:\GD\project\Metanit\003 Anonymous_types\obj\Debug\netcoreapp3.1\003 Anonymous_types.AssemblyInfoInputs.cache
+D:\GD\project\Metanit\003 Anonymous_types\obj\Debug\netcoreapp3.1\003 Anonymous_types.AssemblyInfo.cs
+D:\GD\project\Metanit\003 Anonymous_types\obj\Debug\netcoreapp3.1\003 Anonymous_types.dll
+D:\GD\project\Metanit\003 Anonymous_types\obj\Debug\netcoreapp3.1\003 Anonymous_types.pdb

@@ -1,0 +1,6 @@
+D:\GD\project\Metanit\007 Uslownie_Virajeniya\bin\Debug\007 Uslownie_Virajeniya.exe.config
+D:\GD\project\Metanit\007 Uslownie_Virajeniya\bin\Debug\007 Uslownie_Virajeniya.exe
+D:\GD\project\Metanit\007 Uslownie_Virajeniya\bin\Debug\007 Uslownie_Virajeniya.pdb
+D:\GD\project\Metanit\007 Uslownie_Virajeniya\obj\Debug\007 Uslownie_Virajeniya.csprojAssemblyReference.cache
+D:\GD\project\Metanit\007 Uslownie_Virajeniya\obj\Debug\007 Uslownie_Virajeniya.exe
+D:\GD\project\Metanit\007 Uslownie_Virajeniya\obj\Debug\007 Uslownie_Virajeniya.pdb

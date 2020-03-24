@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "023 Ogranicheniya_generics/1.0.0": {
+        "runtime": {
+          "023 Ogranicheniya_generics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "023 Ogranicheniya_generics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

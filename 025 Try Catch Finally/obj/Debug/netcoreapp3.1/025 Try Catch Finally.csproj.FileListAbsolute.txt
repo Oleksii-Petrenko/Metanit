@@ -1,0 +1,11 @@
+D:\GD\project\Metanit\025 Try Catch Finally\bin\Debug\netcoreapp3.1\025 Try Catch Finally.exe
+D:\GD\project\Metanit\025 Try Catch Finally\bin\Debug\netcoreapp3.1\025 Try Catch Finally.deps.json
+D:\GD\project\Metanit\025 Try Catch Finally\bin\Debug\netcoreapp3.1\025 Try Catch Finally.runtimeconfig.json
+D:\GD\project\Metanit\025 Try Catch Finally\bin\Debug\netcoreapp3.1\025 Try Catch Finally.runtimeconfig.dev.json
+D:\GD\project\Metanit\025 Try Catch Finally\bin\Debug\netcoreapp3.1\025 Try Catch Finally.dll
+D:\GD\project\Metanit\025 Try Catch Finally\bin\Debug\netcoreapp3.1\025 Try Catch Finally.pdb
+D:\GD\project\Metanit\025 Try Catch Finally\obj\Debug\netcoreapp3.1\025 Try Catch Finally.AssemblyInfoInputs.cache
+D:\GD\project\Metanit\025 Try Catch Finally\obj\Debug\netcoreapp3.1\025 Try Catch Finally.AssemblyInfo.cs
+D:\GD\project\Metanit\025 Try Catch Finally\obj\Debug\netcoreapp3.1\025 Try Catch Finally.dll
+D:\GD\project\Metanit\025 Try Catch Finally\obj\Debug\netcoreapp3.1\025 Try Catch Finally.pdb
+D:\GD\project\Metanit\025 Try Catch Finally\obj\Debug\netcoreapp3.1\025 Try Catch Finally.csprojAssemblyReference.cache

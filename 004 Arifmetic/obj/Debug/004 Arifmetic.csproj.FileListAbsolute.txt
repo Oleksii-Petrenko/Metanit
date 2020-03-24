@@ -1,0 +1,13 @@
+C:\Users\O_M\source\repos\Metanit\004 Arifmetic\bin\Debug\004 Arifmetic.exe.config
+C:\Users\O_M\source\repos\Metanit\004 Arifmetic\bin\Debug\004 Arifmetic.exe
+C:\Users\O_M\source\repos\Metanit\004 Arifmetic\bin\Debug\004 Arifmetic.pdb
+C:\Users\O_M\source\repos\Metanit\004 Arifmetic\obj\Debug\004 Arifmetic.csprojAssemblyReference.cache
+C:\Users\O_M\source\repos\Metanit\004 Arifmetic\obj\Debug\004 Arifmetic.csproj.CoreCompileInputs.cache
+C:\Users\O_M\source\repos\Metanit\004 Arifmetic\obj\Debug\004 Arifmetic.exe
+C:\Users\O_M\source\repos\Metanit\004 Arifmetic\obj\Debug\004 Arifmetic.pdb
+D:\GD\project\Metanit\004 Arifmetic\bin\Debug\004 Arifmetic.exe.config
+D:\GD\project\Metanit\004 Arifmetic\bin\Debug\004 Arifmetic.exe
+D:\GD\project\Metanit\004 Arifmetic\bin\Debug\004 Arifmetic.pdb
+D:\GD\project\Metanit\004 Arifmetic\obj\Debug\004 Arifmetic.csprojAssemblyReference.cache
+D:\GD\project\Metanit\004 Arifmetic\obj\Debug\004 Arifmetic.exe
+D:\GD\project\Metanit\004 Arifmetic\obj\Debug\004 Arifmetic.pdb

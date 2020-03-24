@@ -1,0 +1,6 @@
+D:\GD\project\Metanit\017 Perechisleniya Enum\bin\Debug\017 Perechisleniya Enum.exe.config
+D:\GD\project\Metanit\017 Perechisleniya Enum\bin\Debug\017 Perechisleniya Enum.exe
+D:\GD\project\Metanit\017 Perechisleniya Enum\bin\Debug\017 Perechisleniya Enum.pdb
+D:\GD\project\Metanit\017 Perechisleniya Enum\obj\Debug\017 Perechisleniya Enum.csprojAssemblyReference.cache
+D:\GD\project\Metanit\017 Perechisleniya Enum\obj\Debug\017 Perechisleniya Enum.exe
+D:\GD\project\Metanit\017 Perechisleniya Enum\obj\Debug\017 Perechisleniya Enum.pdb

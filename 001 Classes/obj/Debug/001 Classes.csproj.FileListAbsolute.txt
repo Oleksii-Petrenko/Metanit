@@ -1,0 +1,6 @@
+D:\GD\project\Metanit\001 Classes\bin\Debug\001 Classes.exe.config
+D:\GD\project\Metanit\001 Classes\bin\Debug\001 Classes.exe
+D:\GD\project\Metanit\001 Classes\bin\Debug\001 Classes.pdb
+D:\GD\project\Metanit\001 Classes\obj\Debug\001 Classes.csprojAssemblyReference.cache
+D:\GD\project\Metanit\001 Classes\obj\Debug\001 Classes.exe
+D:\GD\project\Metanit\001 Classes\obj\Debug\001 Classes.pdb

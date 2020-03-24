@@ -1,0 +1,11 @@
+D:\GD\project\Metanit\008 Nullable\bin\Debug\netcoreapp3.1\008 Nullable.exe
+D:\GD\project\Metanit\008 Nullable\bin\Debug\netcoreapp3.1\008 Nullable.deps.json
+D:\GD\project\Metanit\008 Nullable\bin\Debug\netcoreapp3.1\008 Nullable.runtimeconfig.json
+D:\GD\project\Metanit\008 Nullable\bin\Debug\netcoreapp3.1\008 Nullable.runtimeconfig.dev.json
+D:\GD\project\Metanit\008 Nullable\bin\Debug\netcoreapp3.1\008 Nullable.dll
+D:\GD\project\Metanit\008 Nullable\bin\Debug\netcoreapp3.1\008 Nullable.pdb
+D:\GD\project\Metanit\008 Nullable\obj\Debug\netcoreapp3.1\008 Nullable.csprojAssemblyReference.cache
+D:\GD\project\Metanit\008 Nullable\obj\Debug\netcoreapp3.1\008 Nullable.AssemblyInfoInputs.cache
+D:\GD\project\Metanit\008 Nullable\obj\Debug\netcoreapp3.1\008 Nullable.AssemblyInfo.cs
+D:\GD\project\Metanit\008 Nullable\obj\Debug\netcoreapp3.1\008 Nullable.dll
+D:\GD\project\Metanit\008 Nullable\obj\Debug\netcoreapp3.1\008 Nullable.pdb

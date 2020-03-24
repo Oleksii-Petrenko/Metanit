@@ -1,0 +1,10 @@
+D:\GD\project\Metanit\003 Explicit_implementation_of_interfaces\bin\Debug\netcoreapp3.1\003 Explicit_implementation_of_interfaces.exe
+D:\GD\project\Metanit\003 Explicit_implementation_of_interfaces\bin\Debug\netcoreapp3.1\003 Explicit_implementation_of_interfaces.deps.json
+D:\GD\project\Metanit\003 Explicit_implementation_of_interfaces\bin\Debug\netcoreapp3.1\003 Explicit_implementation_of_interfaces.runtimeconfig.json
+D:\GD\project\Metanit\003 Explicit_implementation_of_interfaces\bin\Debug\netcoreapp3.1\003 Explicit_implementation_of_interfaces.runtimeconfig.dev.json
+D:\GD\project\Metanit\003 Explicit_implementation_of_interfaces\bin\Debug\netcoreapp3.1\003 Explicit_implementation_of_interfaces.dll
+D:\GD\project\Metanit\003 Explicit_implementation_of_interfaces\bin\Debug\netcoreapp3.1\003 Explicit_implementation_of_interfaces.pdb
+D:\GD\project\Metanit\003 Explicit_implementation_of_interfaces\obj\Debug\netcoreapp3.1\003 Explicit_implementation_of_interfaces.AssemblyInfoInputs.cache
+D:\GD\project\Metanit\003 Explicit_implementation_of_interfaces\obj\Debug\netcoreapp3.1\003 Explicit_implementation_of_interfaces.AssemblyInfo.cs
+D:\GD\project\Metanit\003 Explicit_implementation_of_interfaces\obj\Debug\netcoreapp3.1\003 Explicit_implementation_of_interfaces.dll
+D:\GD\project\Metanit\003 Explicit_implementation_of_interfaces\obj\Debug\netcoreapp3.1\003 Explicit_implementation_of_interfaces.pdb

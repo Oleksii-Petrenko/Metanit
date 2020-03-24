@@ -1,0 +1,11 @@
+D:\GD\project\Metanit\017 Virtual Methods and Properties\bin\Debug\netcoreapp3.1\017 Virtual Methods and Properties.exe
+D:\GD\project\Metanit\017 Virtual Methods and Properties\bin\Debug\netcoreapp3.1\017 Virtual Methods and Properties.deps.json
+D:\GD\project\Metanit\017 Virtual Methods and Properties\bin\Debug\netcoreapp3.1\017 Virtual Methods and Properties.runtimeconfig.json
+D:\GD\project\Metanit\017 Virtual Methods and Properties\bin\Debug\netcoreapp3.1\017 Virtual Methods and Properties.runtimeconfig.dev.json
+D:\GD\project\Metanit\017 Virtual Methods and Properties\bin\Debug\netcoreapp3.1\017 Virtual Methods and Properties.dll
+D:\GD\project\Metanit\017 Virtual Methods and Properties\bin\Debug\netcoreapp3.1\017 Virtual Methods and Properties.pdb
+D:\GD\project\Metanit\017 Virtual Methods and Properties\obj\Debug\netcoreapp3.1\017 Virtual Methods and Properties.csprojAssemblyReference.cache
+D:\GD\project\Metanit\017 Virtual Methods and Properties\obj\Debug\netcoreapp3.1\017 Virtual Methods and Properties.AssemblyInfoInputs.cache
+D:\GD\project\Metanit\017 Virtual Methods and Properties\obj\Debug\netcoreapp3.1\017 Virtual Methods and Properties.AssemblyInfo.cs
+D:\GD\project\Metanit\017 Virtual Methods and Properties\obj\Debug\netcoreapp3.1\017 Virtual Methods and Properties.dll
+D:\GD\project\Metanit\017 Virtual Methods and Properties\obj\Debug\netcoreapp3.1\017 Virtual Methods and Properties.pdb

@@ -1,0 +1,11 @@
+D:\GD\project\Metanit\015 Preobrazovanie_tipov\bin\Debug\netcoreapp3.1\015 Preobrazovanie_tipov.exe
+D:\GD\project\Metanit\015 Preobrazovanie_tipov\bin\Debug\netcoreapp3.1\015 Preobrazovanie_tipov.deps.json
+D:\GD\project\Metanit\015 Preobrazovanie_tipov\bin\Debug\netcoreapp3.1\015 Preobrazovanie_tipov.runtimeconfig.json
+D:\GD\project\Metanit\015 Preobrazovanie_tipov\bin\Debug\netcoreapp3.1\015 Preobrazovanie_tipov.runtimeconfig.dev.json
+D:\GD\project\Metanit\015 Preobrazovanie_tipov\bin\Debug\netcoreapp3.1\015 Preobrazovanie_tipov.dll
+D:\GD\project\Metanit\015 Preobrazovanie_tipov\bin\Debug\netcoreapp3.1\015 Preobrazovanie_tipov.pdb
+D:\GD\project\Metanit\015 Preobrazovanie_tipov\obj\Debug\netcoreapp3.1\015 Preobrazovanie_tipov.csprojAssemblyReference.cache
+D:\GD\project\Metanit\015 Preobrazovanie_tipov\obj\Debug\netcoreapp3.1\015 Preobrazovanie_tipov.AssemblyInfoInputs.cache
+D:\GD\project\Metanit\015 Preobrazovanie_tipov\obj\Debug\netcoreapp3.1\015 Preobrazovanie_tipov.AssemblyInfo.cs
+D:\GD\project\Metanit\015 Preobrazovanie_tipov\obj\Debug\netcoreapp3.1\015 Preobrazovanie_tipov.dll
+D:\GD\project\Metanit\015 Preobrazovanie_tipov\obj\Debug\netcoreapp3.1\015 Preobrazovanie_tipov.pdb

@@ -1,0 +1,11 @@
+D:\GD\project\Metanit\004 Local_Functions\bin\Debug\netcoreapp3.1\004 Local_Functions.exe
+D:\GD\project\Metanit\004 Local_Functions\bin\Debug\netcoreapp3.1\004 Local_Functions.deps.json
+D:\GD\project\Metanit\004 Local_Functions\bin\Debug\netcoreapp3.1\004 Local_Functions.runtimeconfig.json
+D:\GD\project\Metanit\004 Local_Functions\bin\Debug\netcoreapp3.1\004 Local_Functions.runtimeconfig.dev.json
+D:\GD\project\Metanit\004 Local_Functions\bin\Debug\netcoreapp3.1\004 Local_Functions.dll
+D:\GD\project\Metanit\004 Local_Functions\bin\Debug\netcoreapp3.1\004 Local_Functions.pdb
+D:\GD\project\Metanit\004 Local_Functions\obj\Debug\netcoreapp3.1\004 Local_Functions.AssemblyInfoInputs.cache
+D:\GD\project\Metanit\004 Local_Functions\obj\Debug\netcoreapp3.1\004 Local_Functions.AssemblyInfo.cs
+D:\GD\project\Metanit\004 Local_Functions\obj\Debug\netcoreapp3.1\004 Local_Functions.dll
+D:\GD\project\Metanit\004 Local_Functions\obj\Debug\netcoreapp3.1\004 Local_Functions.pdb
+D:\GD\project\Metanit\004 Local_Functions\obj\Debug\netcoreapp3.1\004 Local_Functions.csprojAssemblyReference.cache

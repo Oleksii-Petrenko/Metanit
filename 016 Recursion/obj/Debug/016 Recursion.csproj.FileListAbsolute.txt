@@ -1,0 +1,6 @@
+D:\GD\project\Metanit\016 Recursion\bin\Debug\016 Recursion.exe.config
+D:\GD\project\Metanit\016 Recursion\bin\Debug\016 Recursion.exe
+D:\GD\project\Metanit\016 Recursion\bin\Debug\016 Recursion.pdb
+D:\GD\project\Metanit\016 Recursion\obj\Debug\016 Recursion.csprojAssemblyReference.cache
+D:\GD\project\Metanit\016 Recursion\obj\Debug\016 Recursion.exe
+D:\GD\project\Metanit\016 Recursion\obj\Debug\016 Recursion.pdb

@@ -1,0 +1,6 @@
+D:\GD\project\Metanit\010 Static members and static modifier\bin\Debug\010 Static members and static modifier.exe.config
+D:\GD\project\Metanit\010 Static members and static modifier\bin\Debug\010 Static members and static modifier.exe
+D:\GD\project\Metanit\010 Static members and static modifier\bin\Debug\010 Static members and static modifier.pdb
+D:\GD\project\Metanit\010 Static members and static modifier\obj\Debug\010 Static members and static modifier.csprojAssemblyReference.cache
+D:\GD\project\Metanit\010 Static members and static modifier\obj\Debug\010 Static members and static modifier.exe
+D:\GD\project\Metanit\010 Static members and static modifier\obj\Debug\010 Static members and static modifier.pdb

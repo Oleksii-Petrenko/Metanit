@@ -1,0 +1,13 @@
+C:\Users\O_M\source\repos\Metanit\006 Preobrazovanie_tipov\obj\Debug\006 Preobrazovanie_tipov.csprojAssemblyReference.cache
+C:\Users\O_M\source\repos\Metanit\006 Preobrazovanie_tipov\obj\Debug\006 Preobrazovanie_tipov.csproj.CoreCompileInputs.cache
+C:\Users\O_M\source\repos\Metanit\006 Preobrazovanie_tipov\bin\Debug\006 Preobrazovanie_tipov.exe.config
+C:\Users\O_M\source\repos\Metanit\006 Preobrazovanie_tipov\bin\Debug\006 Preobrazovanie_tipov.exe
+C:\Users\O_M\source\repos\Metanit\006 Preobrazovanie_tipov\bin\Debug\006 Preobrazovanie_tipov.pdb
+C:\Users\O_M\source\repos\Metanit\006 Preobrazovanie_tipov\obj\Debug\006 Preobrazovanie_tipov.exe
+C:\Users\O_M\source\repos\Metanit\006 Preobrazovanie_tipov\obj\Debug\006 Preobrazovanie_tipov.pdb
+D:\GD\project\Metanit\006 Preobrazovanie_tipov\bin\Debug\006 Preobrazovanie_tipov.exe.config
+D:\GD\project\Metanit\006 Preobrazovanie_tipov\bin\Debug\006 Preobrazovanie_tipov.exe
+D:\GD\project\Metanit\006 Preobrazovanie_tipov\bin\Debug\006 Preobrazovanie_tipov.pdb
+D:\GD\project\Metanit\006 Preobrazovanie_tipov\obj\Debug\006 Preobrazovanie_tipov.csprojAssemblyReference.cache
+D:\GD\project\Metanit\006 Preobrazovanie_tipov\obj\Debug\006 Preobrazovanie_tipov.exe
+D:\GD\project\Metanit\006 Preobrazovanie_tipov\obj\Debug\006 Preobrazovanie_tipov.pdb

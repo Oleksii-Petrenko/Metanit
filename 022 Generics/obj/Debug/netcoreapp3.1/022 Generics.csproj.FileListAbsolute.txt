@@ -1,0 +1,11 @@
+D:\GD\project\Metanit\022 Generics\bin\Debug\netcoreapp3.1\022 Generics.exe
+D:\GD\project\Metanit\022 Generics\bin\Debug\netcoreapp3.1\022 Generics.deps.json
+D:\GD\project\Metanit\022 Generics\bin\Debug\netcoreapp3.1\022 Generics.runtimeconfig.json
+D:\GD\project\Metanit\022 Generics\bin\Debug\netcoreapp3.1\022 Generics.runtimeconfig.dev.json
+D:\GD\project\Metanit\022 Generics\bin\Debug\netcoreapp3.1\022 Generics.dll
+D:\GD\project\Metanit\022 Generics\bin\Debug\netcoreapp3.1\022 Generics.pdb
+D:\GD\project\Metanit\022 Generics\obj\Debug\netcoreapp3.1\022 Generics.csprojAssemblyReference.cache
+D:\GD\project\Metanit\022 Generics\obj\Debug\netcoreapp3.1\022 Generics.AssemblyInfoInputs.cache
+D:\GD\project\Metanit\022 Generics\obj\Debug\netcoreapp3.1\022 Generics.AssemblyInfo.cs
+D:\GD\project\Metanit\022 Generics\obj\Debug\netcoreapp3.1\022 Generics.dll
+D:\GD\project\Metanit\022 Generics\obj\Debug\netcoreapp3.1\022 Generics.pdb

@@ -1,0 +1,6 @@
+D:\GD\project\Metanit\002 Struct\bin\Debug\002 Struct.exe.config
+D:\GD\project\Metanit\002 Struct\bin\Debug\002 Struct.exe
+D:\GD\project\Metanit\002 Struct\bin\Debug\002 Struct.pdb
+D:\GD\project\Metanit\002 Struct\obj\Debug\002 Struct.csprojAssemblyReference.cache
+D:\GD\project\Metanit\002 Struct\obj\Debug\002 Struct.exe
+D:\GD\project\Metanit\002 Struct\obj\Debug\002 Struct.pdb

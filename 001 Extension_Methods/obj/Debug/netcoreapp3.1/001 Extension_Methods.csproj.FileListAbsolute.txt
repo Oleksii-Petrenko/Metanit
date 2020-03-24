@@ -1,0 +1,10 @@
+D:\GD\project\Metanit\001 Extension_Methods\bin\Debug\netcoreapp3.1\001 Extension_Methods.exe
+D:\GD\project\Metanit\001 Extension_Methods\bin\Debug\netcoreapp3.1\001 Extension_Methods.deps.json
+D:\GD\project\Metanit\001 Extension_Methods\bin\Debug\netcoreapp3.1\001 Extension_Methods.runtimeconfig.json
+D:\GD\project\Metanit\001 Extension_Methods\bin\Debug\netcoreapp3.1\001 Extension_Methods.runtimeconfig.dev.json
+D:\GD\project\Metanit\001 Extension_Methods\bin\Debug\netcoreapp3.1\001 Extension_Methods.dll
+D:\GD\project\Metanit\001 Extension_Methods\bin\Debug\netcoreapp3.1\001 Extension_Methods.pdb
+D:\GD\project\Metanit\001 Extension_Methods\obj\Debug\netcoreapp3.1\001 Extension_Methods.AssemblyInfoInputs.cache
+D:\GD\project\Metanit\001 Extension_Methods\obj\Debug\netcoreapp3.1\001 Extension_Methods.AssemblyInfo.cs
+D:\GD\project\Metanit\001 Extension_Methods\obj\Debug\netcoreapp3.1\001 Extension_Methods.dll
+D:\GD\project\Metanit\001 Extension_Methods\obj\Debug\netcoreapp3.1\001 Extension_Methods.pdb

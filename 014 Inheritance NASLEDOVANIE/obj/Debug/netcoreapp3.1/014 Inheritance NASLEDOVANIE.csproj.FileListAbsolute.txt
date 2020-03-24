@@ -1,0 +1,11 @@
+D:\GD\project\Metanit\014 Inheritance NASLEDOVANIE\bin\Debug\netcoreapp3.1\014 Inheritance NASLEDOVANIE.exe
+D:\GD\project\Metanit\014 Inheritance NASLEDOVANIE\bin\Debug\netcoreapp3.1\014 Inheritance NASLEDOVANIE.deps.json
+D:\GD\project\Metanit\014 Inheritance NASLEDOVANIE\bin\Debug\netcoreapp3.1\014 Inheritance NASLEDOVANIE.runtimeconfig.json
+D:\GD\project\Metanit\014 Inheritance NASLEDOVANIE\bin\Debug\netcoreapp3.1\014 Inheritance NASLEDOVANIE.runtimeconfig.dev.json
+D:\GD\project\Metanit\014 Inheritance NASLEDOVANIE\bin\Debug\netcoreapp3.1\014 Inheritance NASLEDOVANIE.dll
+D:\GD\project\Metanit\014 Inheritance NASLEDOVANIE\bin\Debug\netcoreapp3.1\014 Inheritance NASLEDOVANIE.pdb
+D:\GD\project\Metanit\014 Inheritance NASLEDOVANIE\obj\Debug\netcoreapp3.1\014 Inheritance NASLEDOVANIE.csprojAssemblyReference.cache
+D:\GD\project\Metanit\014 Inheritance NASLEDOVANIE\obj\Debug\netcoreapp3.1\014 Inheritance NASLEDOVANIE.AssemblyInfoInputs.cache
+D:\GD\project\Metanit\014 Inheritance NASLEDOVANIE\obj\Debug\netcoreapp3.1\014 Inheritance NASLEDOVANIE.AssemblyInfo.cs
+D:\GD\project\Metanit\014 Inheritance NASLEDOVANIE\obj\Debug\netcoreapp3.1\014 Inheritance NASLEDOVANIE.dll
+D:\GD\project\Metanit\014 Inheritance NASLEDOVANIE\obj\Debug\netcoreapp3.1\014 Inheritance NASLEDOVANIE.pdb

@@ -1,0 +1,10 @@
+D:\GD\project\Metanit\BankAplication\bin\Debug\netcoreapp3.1\BankAplication.exe
+D:\GD\project\Metanit\BankAplication\bin\Debug\netcoreapp3.1\BankAplication.deps.json
+D:\GD\project\Metanit\BankAplication\bin\Debug\netcoreapp3.1\BankAplication.runtimeconfig.json
+D:\GD\project\Metanit\BankAplication\bin\Debug\netcoreapp3.1\BankAplication.runtimeconfig.dev.json
+D:\GD\project\Metanit\BankAplication\bin\Debug\netcoreapp3.1\BankAplication.dll
+D:\GD\project\Metanit\BankAplication\bin\Debug\netcoreapp3.1\BankAplication.pdb
+D:\GD\project\Metanit\BankAplication\obj\Debug\netcoreapp3.1\BankAplication.AssemblyInfoInputs.cache
+D:\GD\project\Metanit\BankAplication\obj\Debug\netcoreapp3.1\BankAplication.AssemblyInfo.cs
+D:\GD\project\Metanit\BankAplication\obj\Debug\netcoreapp3.1\BankAplication.dll
+D:\GD\project\Metanit\BankAplication\obj\Debug\netcoreapp3.1\BankAplication.pdb

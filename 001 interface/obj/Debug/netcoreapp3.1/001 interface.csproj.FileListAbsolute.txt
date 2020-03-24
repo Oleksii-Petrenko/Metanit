@@ -1,0 +1,11 @@
+D:\GD\project\Metanit\001 interface\bin\Debug\netcoreapp3.1\001 interface.exe
+D:\GD\project\Metanit\001 interface\bin\Debug\netcoreapp3.1\001 interface.deps.json
+D:\GD\project\Metanit\001 interface\bin\Debug\netcoreapp3.1\001 interface.runtimeconfig.json
+D:\GD\project\Metanit\001 interface\bin\Debug\netcoreapp3.1\001 interface.runtimeconfig.dev.json
+D:\GD\project\Metanit\001 interface\bin\Debug\netcoreapp3.1\001 interface.dll
+D:\GD\project\Metanit\001 interface\bin\Debug\netcoreapp3.1\001 interface.pdb
+D:\GD\project\Metanit\001 interface\obj\Debug\netcoreapp3.1\001 interface.csprojAssemblyReference.cache
+D:\GD\project\Metanit\001 interface\obj\Debug\netcoreapp3.1\001 interface.AssemblyInfoInputs.cache
+D:\GD\project\Metanit\001 interface\obj\Debug\netcoreapp3.1\001 interface.AssemblyInfo.cs
+D:\GD\project\Metanit\001 interface\obj\Debug\netcoreapp3.1\001 interface.dll
+D:\GD\project\Metanit\001 interface\obj\Debug\netcoreapp3.1\001 interface.pdb

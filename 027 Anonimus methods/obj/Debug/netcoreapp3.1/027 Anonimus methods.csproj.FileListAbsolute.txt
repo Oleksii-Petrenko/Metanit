@@ -1,0 +1,11 @@
+D:\GD\project\Metanit\027 Anonimus methods\bin\Debug\netcoreapp3.1\027 Anonimus methods.exe
+D:\GD\project\Metanit\027 Anonimus methods\bin\Debug\netcoreapp3.1\027 Anonimus methods.deps.json
+D:\GD\project\Metanit\027 Anonimus methods\bin\Debug\netcoreapp3.1\027 Anonimus methods.runtimeconfig.json
+D:\GD\project\Metanit\027 Anonimus methods\bin\Debug\netcoreapp3.1\027 Anonimus methods.runtimeconfig.dev.json
+D:\GD\project\Metanit\027 Anonimus methods\bin\Debug\netcoreapp3.1\027 Anonimus methods.dll
+D:\GD\project\Metanit\027 Anonimus methods\bin\Debug\netcoreapp3.1\027 Anonimus methods.pdb
+D:\GD\project\Metanit\027 Anonimus methods\obj\Debug\netcoreapp3.1\027 Anonimus methods.AssemblyInfoInputs.cache
+D:\GD\project\Metanit\027 Anonimus methods\obj\Debug\netcoreapp3.1\027 Anonimus methods.AssemblyInfo.cs
+D:\GD\project\Metanit\027 Anonimus methods\obj\Debug\netcoreapp3.1\027 Anonimus methods.dll
+D:\GD\project\Metanit\027 Anonimus methods\obj\Debug\netcoreapp3.1\027 Anonimus methods.pdb
+D:\GD\project\Metanit\027 Anonimus methods\obj\Debug\netcoreapp3.1\027 Anonimus methods.csprojAssemblyReference.cache

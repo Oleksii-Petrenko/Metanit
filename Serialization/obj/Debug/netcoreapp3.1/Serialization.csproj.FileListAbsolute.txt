@@ -1,0 +1,11 @@
+D:\GD\project\Metanit\Serialization\obj\Debug\netcoreapp3.1\Serialization.csprojAssemblyReference.cache
+D:\GD\project\Metanit\Serialization\obj\Debug\netcoreapp3.1\Serialization.AssemblyInfoInputs.cache
+D:\GD\project\Metanit\Serialization\obj\Debug\netcoreapp3.1\Serialization.AssemblyInfo.cs
+D:\GD\project\Metanit\Serialization\bin\Debug\netcoreapp3.1\Serialization.exe
+D:\GD\project\Metanit\Serialization\bin\Debug\netcoreapp3.1\Serialization.deps.json
+D:\GD\project\Metanit\Serialization\bin\Debug\netcoreapp3.1\Serialization.runtimeconfig.json
+D:\GD\project\Metanit\Serialization\bin\Debug\netcoreapp3.1\Serialization.runtimeconfig.dev.json
+D:\GD\project\Metanit\Serialization\bin\Debug\netcoreapp3.1\Serialization.dll
+D:\GD\project\Metanit\Serialization\bin\Debug\netcoreapp3.1\Serialization.pdb
+D:\GD\project\Metanit\Serialization\obj\Debug\netcoreapp3.1\Serialization.dll
+D:\GD\project\Metanit\Serialization\obj\Debug\netcoreapp3.1\Serialization.pdb

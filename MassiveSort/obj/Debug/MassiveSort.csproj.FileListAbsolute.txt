@@ -1,0 +1,13 @@
+C:\Users\O_M\source\repos\Metanit\MassiveSort\bin\Debug\MassiveSort.exe.config
+C:\Users\O_M\source\repos\Metanit\MassiveSort\bin\Debug\MassiveSort.exe
+C:\Users\O_M\source\repos\Metanit\MassiveSort\bin\Debug\MassiveSort.pdb
+C:\Users\O_M\source\repos\Metanit\MassiveSort\obj\Debug\MassiveSort.csprojAssemblyReference.cache
+C:\Users\O_M\source\repos\Metanit\MassiveSort\obj\Debug\MassiveSort.csproj.CoreCompileInputs.cache
+C:\Users\O_M\source\repos\Metanit\MassiveSort\obj\Debug\MassiveSort.exe
+C:\Users\O_M\source\repos\Metanit\MassiveSort\obj\Debug\MassiveSort.pdb
+D:\GD\project\Metanit\MassiveSort\bin\Debug\MassiveSort.exe.config
+D:\GD\project\Metanit\MassiveSort\bin\Debug\MassiveSort.exe
+D:\GD\project\Metanit\MassiveSort\bin\Debug\MassiveSort.pdb
+D:\GD\project\Metanit\MassiveSort\obj\Debug\MassiveSort.csprojAssemblyReference.cache
+D:\GD\project\Metanit\MassiveSort\obj\Debug\MassiveSort.exe
+D:\GD\project\Metanit\MassiveSort\obj\Debug\MassiveSort.pdb

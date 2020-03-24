@@ -1,0 +1,13 @@
+D:\googles\project\Metanit\009 Cikli\bin\Debug\009 Cikli.exe.config
+D:\googles\project\Metanit\009 Cikli\bin\Debug\009 Cikli.exe
+D:\googles\project\Metanit\009 Cikli\bin\Debug\009 Cikli.pdb
+D:\googles\project\Metanit\009 Cikli\obj\Debug\009 Cikli.csprojAssemblyReference.cache
+D:\googles\project\Metanit\009 Cikli\obj\Debug\009 Cikli.csproj.CoreCompileInputs.cache
+D:\googles\project\Metanit\009 Cikli\obj\Debug\009 Cikli.exe
+D:\googles\project\Metanit\009 Cikli\obj\Debug\009 Cikli.pdb
+D:\GD\project\Metanit\009 Cikli\bin\Debug\009 Cikli.exe.config
+D:\GD\project\Metanit\009 Cikli\bin\Debug\009 Cikli.exe
+D:\GD\project\Metanit\009 Cikli\bin\Debug\009 Cikli.pdb
+D:\GD\project\Metanit\009 Cikli\obj\Debug\009 Cikli.csprojAssemblyReference.cache
+D:\GD\project\Metanit\009 Cikli\obj\Debug\009 Cikli.exe
+D:\GD\project\Metanit\009 Cikli\obj\Debug\009 Cikli.pdb

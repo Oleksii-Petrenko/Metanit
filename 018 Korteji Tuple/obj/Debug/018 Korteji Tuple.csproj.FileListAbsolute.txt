@@ -1,0 +1,9 @@
+D:\GD\project\Metanit\018 Korteji Tuple\obj\Debug\018 Korteji Tuple.csprojAssemblyReference.cache
+D:\GD\project\Metanit\018 Korteji Tuple\bin\Debug\018 Korteji Tuple.exe.config
+D:\GD\project\Metanit\018 Korteji Tuple\bin\Debug\018 Korteji Tuple.exe
+D:\GD\project\Metanit\018 Korteji Tuple\bin\Debug\018 Korteji Tuple.pdb
+D:\GD\project\Metanit\018 Korteji Tuple\bin\Debug\System.ValueTuple.dll
+D:\GD\project\Metanit\018 Korteji Tuple\bin\Debug\System.ValueTuple.xml
+D:\GD\project\Metanit\018 Korteji Tuple\obj\Debug\018 Korteji Tuple.csproj.CopyComplete
+D:\GD\project\Metanit\018 Korteji Tuple\obj\Debug\018 Korteji Tuple.exe
+D:\GD\project\Metanit\018 Korteji Tuple\obj\Debug\018 Korteji Tuple.pdb

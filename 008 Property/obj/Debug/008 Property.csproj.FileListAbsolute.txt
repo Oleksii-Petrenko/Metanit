@@ -1,0 +1,6 @@
+D:\GD\project\Metanit\008 Property\bin\Debug\008 Property.exe.config
+D:\GD\project\Metanit\008 Property\bin\Debug\008 Property.exe
+D:\GD\project\Metanit\008 Property\bin\Debug\008 Property.pdb
+D:\GD\project\Metanit\008 Property\obj\Debug\008 Property.csprojAssemblyReference.cache
+D:\GD\project\Metanit\008 Property\obj\Debug\008 Property.exe
+D:\GD\project\Metanit\008 Property\obj\Debug\008 Property.pdb

@@ -1,0 +1,6 @@
+D:\GD\project\Metanit\012 Parametri Metodov\bin\Debug\012 Parametri Metodov.exe.config
+D:\GD\project\Metanit\012 Parametri Metodov\bin\Debug\012 Parametri Metodov.exe
+D:\GD\project\Metanit\012 Parametri Metodov\bin\Debug\012 Parametri Metodov.pdb
+D:\GD\project\Metanit\012 Parametri Metodov\obj\Debug\012 Parametri Metodov.csprojAssemblyReference.cache
+D:\GD\project\Metanit\012 Parametri Metodov\obj\Debug\012 Parametri Metodov.exe
+D:\GD\project\Metanit\012 Parametri Metodov\obj\Debug\012 Parametri Metodov.pdb

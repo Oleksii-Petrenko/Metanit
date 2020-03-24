@@ -1,0 +1,11 @@
+D:\GD\project\Metanit\006 Deconstructors\bin\Debug\netcoreapp3.1\006 Deconstructors.exe
+D:\GD\project\Metanit\006 Deconstructors\bin\Debug\netcoreapp3.1\006 Deconstructors.deps.json
+D:\GD\project\Metanit\006 Deconstructors\bin\Debug\netcoreapp3.1\006 Deconstructors.runtimeconfig.json
+D:\GD\project\Metanit\006 Deconstructors\bin\Debug\netcoreapp3.1\006 Deconstructors.runtimeconfig.dev.json
+D:\GD\project\Metanit\006 Deconstructors\bin\Debug\netcoreapp3.1\006 Deconstructors.dll
+D:\GD\project\Metanit\006 Deconstructors\bin\Debug\netcoreapp3.1\006 Deconstructors.pdb
+D:\GD\project\Metanit\006 Deconstructors\obj\Debug\netcoreapp3.1\006 Deconstructors.csprojAssemblyReference.cache
+D:\GD\project\Metanit\006 Deconstructors\obj\Debug\netcoreapp3.1\006 Deconstructors.AssemblyInfoInputs.cache
+D:\GD\project\Metanit\006 Deconstructors\obj\Debug\netcoreapp3.1\006 Deconstructors.AssemblyInfo.cs
+D:\GD\project\Metanit\006 Deconstructors\obj\Debug\netcoreapp3.1\006 Deconstructors.dll
+D:\GD\project\Metanit\006 Deconstructors\obj\Debug\netcoreapp3.1\006 Deconstructors.pdb

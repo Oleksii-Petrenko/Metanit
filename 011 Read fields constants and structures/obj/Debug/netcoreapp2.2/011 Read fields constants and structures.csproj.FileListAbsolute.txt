@@ -1,0 +1,11 @@
+D:\GD\project\Metanit\011 Read fields constants and structures\obj\Debug\netcoreapp2.2\011 Read fields constants and structures.csprojAssemblyReference.cache
+D:\GD\project\Metanit\011 Read fields constants and structures\obj\Debug\netcoreapp2.2\011 Read fields constants and structures.csproj.CoreCompileInputs.cache
+D:\GD\project\Metanit\011 Read fields constants and structures\obj\Debug\netcoreapp2.2\011 Read fields constants and structures.AssemblyInfoInputs.cache
+D:\GD\project\Metanit\011 Read fields constants and structures\obj\Debug\netcoreapp2.2\011 Read fields constants and structures.AssemblyInfo.cs
+D:\GD\project\Metanit\011 Read fields constants and structures\bin\Debug\netcoreapp2.2\011 Read fields constants and structures.deps.json
+D:\GD\project\Metanit\011 Read fields constants and structures\bin\Debug\netcoreapp2.2\011 Read fields constants and structures.runtimeconfig.json
+D:\GD\project\Metanit\011 Read fields constants and structures\bin\Debug\netcoreapp2.2\011 Read fields constants and structures.runtimeconfig.dev.json
+D:\GD\project\Metanit\011 Read fields constants and structures\bin\Debug\netcoreapp2.2\011 Read fields constants and structures.dll
+D:\GD\project\Metanit\011 Read fields constants and structures\bin\Debug\netcoreapp2.2\011 Read fields constants and structures.pdb
+D:\GD\project\Metanit\011 Read fields constants and structures\obj\Debug\netcoreapp2.2\011 Read fields constants and structures.dll
+D:\GD\project\Metanit\011 Read fields constants and structures\obj\Debug\netcoreapp2.2\011 Read fields constants and structures.pdb

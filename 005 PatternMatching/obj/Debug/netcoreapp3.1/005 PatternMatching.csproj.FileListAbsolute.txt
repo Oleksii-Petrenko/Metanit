@@ -1,0 +1,10 @@
+D:\GD\project\Metanit\005 PatternMatching\bin\Debug\netcoreapp3.1\005 PatternMatching.exe
+D:\GD\project\Metanit\005 PatternMatching\bin\Debug\netcoreapp3.1\005 PatternMatching.deps.json
+D:\GD\project\Metanit\005 PatternMatching\bin\Debug\netcoreapp3.1\005 PatternMatching.runtimeconfig.json
+D:\GD\project\Metanit\005 PatternMatching\bin\Debug\netcoreapp3.1\005 PatternMatching.runtimeconfig.dev.json
+D:\GD\project\Metanit\005 PatternMatching\bin\Debug\netcoreapp3.1\005 PatternMatching.dll
+D:\GD\project\Metanit\005 PatternMatching\bin\Debug\netcoreapp3.1\005 PatternMatching.pdb
+D:\GD\project\Metanit\005 PatternMatching\obj\Debug\netcoreapp3.1\005 PatternMatching.AssemblyInfoInputs.cache
+D:\GD\project\Metanit\005 PatternMatching\obj\Debug\netcoreapp3.1\005 PatternMatching.AssemblyInfo.cs
+D:\GD\project\Metanit\005 PatternMatching\obj\Debug\netcoreapp3.1\005 PatternMatching.dll
+D:\GD\project\Metanit\005 PatternMatching\obj\Debug\netcoreapp3.1\005 PatternMatching.pdb

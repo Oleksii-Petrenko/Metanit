@@ -1,0 +1,11 @@
+D:\GD\project\Metanit\026 Delegate\bin\Debug\netcoreapp3.1\026 Delegate.exe
+D:\GD\project\Metanit\026 Delegate\bin\Debug\netcoreapp3.1\026 Delegate.deps.json
+D:\GD\project\Metanit\026 Delegate\bin\Debug\netcoreapp3.1\026 Delegate.runtimeconfig.json
+D:\GD\project\Metanit\026 Delegate\bin\Debug\netcoreapp3.1\026 Delegate.runtimeconfig.dev.json
+D:\GD\project\Metanit\026 Delegate\bin\Debug\netcoreapp3.1\026 Delegate.dll
+D:\GD\project\Metanit\026 Delegate\bin\Debug\netcoreapp3.1\026 Delegate.pdb
+D:\GD\project\Metanit\026 Delegate\obj\Debug\netcoreapp3.1\026 Delegate.AssemblyInfoInputs.cache
+D:\GD\project\Metanit\026 Delegate\obj\Debug\netcoreapp3.1\026 Delegate.AssemblyInfo.cs
+D:\GD\project\Metanit\026 Delegate\obj\Debug\netcoreapp3.1\026 Delegate.dll
+D:\GD\project\Metanit\026 Delegate\obj\Debug\netcoreapp3.1\026 Delegate.pdb
+D:\GD\project\Metanit\026 Delegate\obj\Debug\netcoreapp3.1\026 Delegate.csprojAssemblyReference.cache

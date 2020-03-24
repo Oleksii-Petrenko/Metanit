@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "015 Preobrazovanie_tipov/1.0.0": {
+        "runtime": {
+          "015 Preobrazovanie_tipov.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "015 Preobrazovanie_tipov/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

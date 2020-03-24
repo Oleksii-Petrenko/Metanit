@@ -1,0 +1,6 @@
+D:\GD\project\Metanit\010 Massivi\obj\Debug\010 Massivi.csprojAssemblyReference.cache
+D:\GD\project\Metanit\010 Massivi\bin\Debug\010 Massivi.exe.config
+D:\GD\project\Metanit\010 Massivi\bin\Debug\010 Massivi.exe
+D:\GD\project\Metanit\010 Massivi\bin\Debug\010 Massivi.pdb
+D:\GD\project\Metanit\010 Massivi\obj\Debug\010 Massivi.exe
+D:\GD\project\Metanit\010 Massivi\obj\Debug\010 Massivi.pdb

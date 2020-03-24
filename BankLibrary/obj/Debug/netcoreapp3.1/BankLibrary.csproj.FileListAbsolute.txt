@@ -1,0 +1,8 @@
+D:\GD\project\Metanit\BankLibrary\bin\Debug\netcoreapp3.1\BankLibrary.deps.json
+D:\GD\project\Metanit\BankLibrary\bin\Debug\netcoreapp3.1\BankLibrary.dll
+D:\GD\project\Metanit\BankLibrary\bin\Debug\netcoreapp3.1\BankLibrary.pdb
+D:\GD\project\Metanit\BankLibrary\obj\Debug\netcoreapp3.1\BankLibrary.csprojAssemblyReference.cache
+D:\GD\project\Metanit\BankLibrary\obj\Debug\netcoreapp3.1\BankLibrary.AssemblyInfoInputs.cache
+D:\GD\project\Metanit\BankLibrary\obj\Debug\netcoreapp3.1\BankLibrary.AssemblyInfo.cs
+D:\GD\project\Metanit\BankLibrary\obj\Debug\netcoreapp3.1\BankLibrary.dll
+D:\GD\project\Metanit\BankLibrary\obj\Debug\netcoreapp3.1\BankLibrary.pdb

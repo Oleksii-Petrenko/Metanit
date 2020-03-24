@@ -1,0 +1,11 @@
+D:\GD\project\Metanit\020 Abstract Classes\bin\Debug\netcoreapp3.0\020 Abstract Classes.exe
+D:\GD\project\Metanit\020 Abstract Classes\bin\Debug\netcoreapp3.0\020 Abstract Classes.deps.json
+D:\GD\project\Metanit\020 Abstract Classes\bin\Debug\netcoreapp3.0\020 Abstract Classes.runtimeconfig.json
+D:\GD\project\Metanit\020 Abstract Classes\bin\Debug\netcoreapp3.0\020 Abstract Classes.runtimeconfig.dev.json
+D:\GD\project\Metanit\020 Abstract Classes\bin\Debug\netcoreapp3.0\020 Abstract Classes.dll
+D:\GD\project\Metanit\020 Abstract Classes\bin\Debug\netcoreapp3.0\020 Abstract Classes.pdb
+D:\GD\project\Metanit\020 Abstract Classes\obj\Debug\netcoreapp3.0\020 Abstract Classes.csprojAssemblyReference.cache
+D:\GD\project\Metanit\020 Abstract Classes\obj\Debug\netcoreapp3.0\020 Abstract Classes.AssemblyInfoInputs.cache
+D:\GD\project\Metanit\020 Abstract Classes\obj\Debug\netcoreapp3.0\020 Abstract Classes.AssemblyInfo.cs
+D:\GD\project\Metanit\020 Abstract Classes\obj\Debug\netcoreapp3.0\020 Abstract Classes.dll
+D:\GD\project\Metanit\020 Abstract Classes\obj\Debug\netcoreapp3.0\020 Abstract Classes.pdb

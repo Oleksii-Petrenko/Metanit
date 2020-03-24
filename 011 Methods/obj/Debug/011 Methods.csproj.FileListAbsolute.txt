@@ -1,0 +1,6 @@
+D:\GD\project\Metanit\011 Methods\bin\Debug\011 Methods.exe.config
+D:\GD\project\Metanit\011 Methods\bin\Debug\011 Methods.exe
+D:\GD\project\Metanit\011 Methods\bin\Debug\011 Methods.pdb
+D:\GD\project\Metanit\011 Methods\obj\Debug\011 Methods.csprojAssemblyReference.cache
+D:\GD\project\Metanit\011 Methods\obj\Debug\011 Methods.exe
+D:\GD\project\Metanit\011 Methods\obj\Debug\011 Methods.pdb

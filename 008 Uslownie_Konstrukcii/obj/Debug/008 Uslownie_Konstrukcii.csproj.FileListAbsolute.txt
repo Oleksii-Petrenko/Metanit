@@ -1,0 +1,13 @@
+D:\googles\project\Metanit\008 Uslownie_Konstrukcii\bin\Debug\008 Uslownie_Konstrukcii.exe.config
+D:\googles\project\Metanit\008 Uslownie_Konstrukcii\bin\Debug\008 Uslownie_Konstrukcii.exe
+D:\googles\project\Metanit\008 Uslownie_Konstrukcii\bin\Debug\008 Uslownie_Konstrukcii.pdb
+D:\googles\project\Metanit\008 Uslownie_Konstrukcii\obj\Debug\008 Uslownie_Konstrukcii.csprojAssemblyReference.cache
+D:\googles\project\Metanit\008 Uslownie_Konstrukcii\obj\Debug\008 Uslownie_Konstrukcii.csproj.CoreCompileInputs.cache
+D:\googles\project\Metanit\008 Uslownie_Konstrukcii\obj\Debug\008 Uslownie_Konstrukcii.exe
+D:\googles\project\Metanit\008 Uslownie_Konstrukcii\obj\Debug\008 Uslownie_Konstrukcii.pdb
+D:\GD\project\Metanit\008 Uslownie_Konstrukcii\bin\Debug\008 Uslownie_Konstrukcii.exe.config
+D:\GD\project\Metanit\008 Uslownie_Konstrukcii\bin\Debug\008 Uslownie_Konstrukcii.exe
+D:\GD\project\Metanit\008 Uslownie_Konstrukcii\bin\Debug\008 Uslownie_Konstrukcii.pdb
+D:\GD\project\Metanit\008 Uslownie_Konstrukcii\obj\Debug\008 Uslownie_Konstrukcii.csprojAssemblyReference.cache
+D:\GD\project\Metanit\008 Uslownie_Konstrukcii\obj\Debug\008 Uslownie_Konstrukcii.exe
+D:\GD\project\Metanit\008 Uslownie_Konstrukcii\obj\Debug\008 Uslownie_Konstrukcii.pdb

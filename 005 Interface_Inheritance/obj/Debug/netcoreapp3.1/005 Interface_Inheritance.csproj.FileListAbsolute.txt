@@ -1,0 +1,11 @@
+D:\GD\project\Metanit\005 Interface_Inheritance\bin\Debug\netcoreapp3.1\005 Interface_Inheritance.exe
+D:\GD\project\Metanit\005 Interface_Inheritance\bin\Debug\netcoreapp3.1\005 Interface_Inheritance.deps.json
+D:\GD\project\Metanit\005 Interface_Inheritance\bin\Debug\netcoreapp3.1\005 Interface_Inheritance.runtimeconfig.json
+D:\GD\project\Metanit\005 Interface_Inheritance\bin\Debug\netcoreapp3.1\005 Interface_Inheritance.runtimeconfig.dev.json
+D:\GD\project\Metanit\005 Interface_Inheritance\bin\Debug\netcoreapp3.1\005 Interface_Inheritance.dll
+D:\GD\project\Metanit\005 Interface_Inheritance\bin\Debug\netcoreapp3.1\005 Interface_Inheritance.pdb
+D:\GD\project\Metanit\005 Interface_Inheritance\obj\Debug\netcoreapp3.1\005 Interface_Inheritance.csprojAssemblyReference.cache
+D:\GD\project\Metanit\005 Interface_Inheritance\obj\Debug\netcoreapp3.1\005 Interface_Inheritance.AssemblyInfoInputs.cache
+D:\GD\project\Metanit\005 Interface_Inheritance\obj\Debug\netcoreapp3.1\005 Interface_Inheritance.AssemblyInfo.cs
+D:\GD\project\Metanit\005 Interface_Inheritance\obj\Debug\netcoreapp3.1\005 Interface_Inheritance.dll
+D:\GD\project\Metanit\005 Interface_Inheritance\obj\Debug\netcoreapp3.1\005 Interface_Inheritance.pdb

@@ -1,0 +1,11 @@
+D:\GD\project\Metanit\023 Ogranicheniya_generics\bin\Debug\netcoreapp3.1\023 Ogranicheniya_generics.exe
+D:\GD\project\Metanit\023 Ogranicheniya_generics\bin\Debug\netcoreapp3.1\023 Ogranicheniya_generics.deps.json
+D:\GD\project\Metanit\023 Ogranicheniya_generics\bin\Debug\netcoreapp3.1\023 Ogranicheniya_generics.runtimeconfig.json
+D:\GD\project\Metanit\023 Ogranicheniya_generics\bin\Debug\netcoreapp3.1\023 Ogranicheniya_generics.runtimeconfig.dev.json
+D:\GD\project\Metanit\023 Ogranicheniya_generics\bin\Debug\netcoreapp3.1\023 Ogranicheniya_generics.dll
+D:\GD\project\Metanit\023 Ogranicheniya_generics\bin\Debug\netcoreapp3.1\023 Ogranicheniya_generics.pdb
+D:\GD\project\Metanit\023 Ogranicheniya_generics\obj\Debug\netcoreapp3.1\023 Ogranicheniya_generics.csprojAssemblyReference.cache
+D:\GD\project\Metanit\023 Ogranicheniya_generics\obj\Debug\netcoreapp3.1\023 Ogranicheniya_generics.AssemblyInfoInputs.cache
+D:\GD\project\Metanit\023 Ogranicheniya_generics\obj\Debug\netcoreapp3.1\023 Ogranicheniya_generics.AssemblyInfo.cs
+D:\GD\project\Metanit\023 Ogranicheniya_generics\obj\Debug\netcoreapp3.1\023 Ogranicheniya_generics.dll
+D:\GD\project\Metanit\023 Ogranicheniya_generics\obj\Debug\netcoreapp3.1\023 Ogranicheniya_generics.pdb

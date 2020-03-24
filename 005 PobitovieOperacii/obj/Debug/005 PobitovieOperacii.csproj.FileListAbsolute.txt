@@ -1,0 +1,13 @@
+C:\Users\O_M\source\repos\Metanit\005 PobitovieOperacii\bin\Debug\005 PobitovieOperacii.exe.config
+C:\Users\O_M\source\repos\Metanit\005 PobitovieOperacii\bin\Debug\005 PobitovieOperacii.exe
+C:\Users\O_M\source\repos\Metanit\005 PobitovieOperacii\bin\Debug\005 PobitovieOperacii.pdb
+C:\Users\O_M\source\repos\Metanit\005 PobitovieOperacii\obj\Debug\005 PobitovieOperacii.csprojAssemblyReference.cache
+C:\Users\O_M\source\repos\Metanit\005 PobitovieOperacii\obj\Debug\005 PobitovieOperacii.csproj.CoreCompileInputs.cache
+C:\Users\O_M\source\repos\Metanit\005 PobitovieOperacii\obj\Debug\005 PobitovieOperacii.exe
+C:\Users\O_M\source\repos\Metanit\005 PobitovieOperacii\obj\Debug\005 PobitovieOperacii.pdb
+D:\GD\project\Metanit\005 PobitovieOperacii\bin\Debug\005 PobitovieOperacii.exe.config
+D:\GD\project\Metanit\005 PobitovieOperacii\bin\Debug\005 PobitovieOperacii.exe
+D:\GD\project\Metanit\005 PobitovieOperacii\bin\Debug\005 PobitovieOperacii.pdb
+D:\GD\project\Metanit\005 PobitovieOperacii\obj\Debug\005 PobitovieOperacii.csprojAssemblyReference.cache
+D:\GD\project\Metanit\005 PobitovieOperacii\obj\Debug\005 PobitovieOperacii.exe
+D:\GD\project\Metanit\005 PobitovieOperacii\obj\Debug\005 PobitovieOperacii.pdb

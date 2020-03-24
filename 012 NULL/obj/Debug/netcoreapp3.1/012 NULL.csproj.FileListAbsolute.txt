@@ -1,0 +1,11 @@
+D:\GD\project\Metanit\012 NULL\bin\Debug\netcoreapp3.1\012 NULL.exe
+D:\GD\project\Metanit\012 NULL\bin\Debug\netcoreapp3.1\012 NULL.deps.json
+D:\GD\project\Metanit\012 NULL\bin\Debug\netcoreapp3.1\012 NULL.runtimeconfig.json
+D:\GD\project\Metanit\012 NULL\bin\Debug\netcoreapp3.1\012 NULL.runtimeconfig.dev.json
+D:\GD\project\Metanit\012 NULL\bin\Debug\netcoreapp3.1\012 NULL.dll
+D:\GD\project\Metanit\012 NULL\bin\Debug\netcoreapp3.1\012 NULL.pdb
+D:\GD\project\Metanit\012 NULL\obj\Debug\netcoreapp3.1\012 NULL.csprojAssemblyReference.cache
+D:\GD\project\Metanit\012 NULL\obj\Debug\netcoreapp3.1\012 NULL.AssemblyInfoInputs.cache
+D:\GD\project\Metanit\012 NULL\obj\Debug\netcoreapp3.1\012 NULL.AssemblyInfo.cs
+D:\GD\project\Metanit\012 NULL\obj\Debug\netcoreapp3.1\012 NULL.dll
+D:\GD\project\Metanit\012 NULL\obj\Debug\netcoreapp3.1\012 NULL.pdb

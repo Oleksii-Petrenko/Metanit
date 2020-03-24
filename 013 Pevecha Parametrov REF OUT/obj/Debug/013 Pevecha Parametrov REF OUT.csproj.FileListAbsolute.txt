@@ -1,0 +1,7 @@
+D:\GD\project\Metanit\013 Pevecha Parametrov REF OUT\bin\Debug\013 Pevecha Parametrov REF OUT.exe.config
+D:\GD\project\Metanit\013 Pevecha Parametrov REF OUT\bin\Debug\013 Pevecha Parametrov REF OUT.exe
+D:\GD\project\Metanit\013 Pevecha Parametrov REF OUT\bin\Debug\013 Pevecha Parametrov REF OUT.pdb
+D:\GD\project\Metanit\013 Pevecha Parametrov REF OUT\obj\Debug\013 Pevecha Parametrov REF OUT.csprojAssemblyReference.cache
+D:\GD\project\Metanit\013 Pevecha Parametrov REF OUT\obj\Debug\013 Pevecha Parametrov REF OUT.csproj.CoreCompileInputs.cache
+D:\GD\project\Metanit\013 Pevecha Parametrov REF OUT\obj\Debug\013 Pevecha Parametrov REF OUT.exe
+D:\GD\project\Metanit\013 Pevecha Parametrov REF OUT\obj\Debug\013 Pevecha Parametrov REF OUT.pdb

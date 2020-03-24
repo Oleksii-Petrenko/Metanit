@@ -1,0 +1,6 @@
+D:\GD\project\Metanit\004 Prostranstvo imen Staticheskiy import\bin\Debug\004 Prostranstvo imen Staticheskiy import.exe.config
+D:\GD\project\Metanit\004 Prostranstvo imen Staticheskiy import\bin\Debug\004 Prostranstvo imen Staticheskiy import.exe
+D:\GD\project\Metanit\004 Prostranstvo imen Staticheskiy import\bin\Debug\004 Prostranstvo imen Staticheskiy import.pdb
+D:\GD\project\Metanit\004 Prostranstvo imen Staticheskiy import\obj\Debug\004 Prostranstvo imen Staticheskiy import.csprojAssemblyReference.cache
+D:\GD\project\Metanit\004 Prostranstvo imen Staticheskiy import\obj\Debug\004 Prostranstvo imen Staticheskiy import.exe
+D:\GD\project\Metanit\004 Prostranstvo imen Staticheskiy import\obj\Debug\004 Prostranstvo imen Staticheskiy import.pdb

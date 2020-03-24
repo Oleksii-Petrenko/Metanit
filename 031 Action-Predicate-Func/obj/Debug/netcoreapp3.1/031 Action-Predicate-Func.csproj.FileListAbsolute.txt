@@ -1,0 +1,11 @@
+D:\GD\project\Metanit\031 Action-Predicate-Func\bin\Debug\netcoreapp3.1\031 Action-Predicate-Func.exe
+D:\GD\project\Metanit\031 Action-Predicate-Func\bin\Debug\netcoreapp3.1\031 Action-Predicate-Func.deps.json
+D:\GD\project\Metanit\031 Action-Predicate-Func\bin\Debug\netcoreapp3.1\031 Action-Predicate-Func.runtimeconfig.json
+D:\GD\project\Metanit\031 Action-Predicate-Func\bin\Debug\netcoreapp3.1\031 Action-Predicate-Func.runtimeconfig.dev.json
+D:\GD\project\Metanit\031 Action-Predicate-Func\bin\Debug\netcoreapp3.1\031 Action-Predicate-Func.dll
+D:\GD\project\Metanit\031 Action-Predicate-Func\bin\Debug\netcoreapp3.1\031 Action-Predicate-Func.pdb
+D:\GD\project\Metanit\031 Action-Predicate-Func\obj\Debug\netcoreapp3.1\031 Action-Predicate-Func.csprojAssemblyReference.cache
+D:\GD\project\Metanit\031 Action-Predicate-Func\obj\Debug\netcoreapp3.1\031 Action-Predicate-Func.AssemblyInfoInputs.cache
+D:\GD\project\Metanit\031 Action-Predicate-Func\obj\Debug\netcoreapp3.1\031 Action-Predicate-Func.AssemblyInfo.cs
+D:\GD\project\Metanit\031 Action-Predicate-Func\obj\Debug\netcoreapp3.1\031 Action-Predicate-Func.dll
+D:\GD\project\Metanit\031 Action-Predicate-Func\obj\Debug\netcoreapp3.1\031 Action-Predicate-Func.pdb

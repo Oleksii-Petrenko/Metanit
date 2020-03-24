@@ -1,0 +1,6 @@
+D:\GD\project\Metanit\005 Creating a class library\bin\Debug\005 Creating a class library.exe.config
+D:\GD\project\Metanit\005 Creating a class library\bin\Debug\005 Creating a class library.exe
+D:\GD\project\Metanit\005 Creating a class library\bin\Debug\005 Creating a class library.pdb
+D:\GD\project\Metanit\005 Creating a class library\obj\Debug\005 Creating a class library.csprojAssemblyReference.cache
+D:\GD\project\Metanit\005 Creating a class library\obj\Debug\005 Creating a class library.exe
+D:\GD\project\Metanit\005 Creating a class library\obj\Debug\005 Creating a class library.pdb

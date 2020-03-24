@@ -1,0 +1,6 @@
+D:\GD\project\Metanit\015 Oblast_vidiomosti_peremenih\bin\Debug\015 Oblast_vidiomosti_peremenih.exe.config
+D:\GD\project\Metanit\015 Oblast_vidiomosti_peremenih\bin\Debug\015 Oblast_vidiomosti_peremenih.exe
+D:\GD\project\Metanit\015 Oblast_vidiomosti_peremenih\bin\Debug\015 Oblast_vidiomosti_peremenih.pdb
+D:\GD\project\Metanit\015 Oblast_vidiomosti_peremenih\obj\Debug\015 Oblast_vidiomosti_peremenih.exe
+D:\GD\project\Metanit\015 Oblast_vidiomosti_peremenih\obj\Debug\015 Oblast_vidiomosti_peremenih.pdb
+D:\GD\project\Metanit\015 Oblast_vidiomosti_peremenih\obj\Debug\015 Oblast_vidiomosti_peremenih.csprojAssemblyReference.cache
